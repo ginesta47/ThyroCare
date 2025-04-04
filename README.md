@@ -4,9 +4,7 @@ Final project for the Building AI course.
 
 ## Summary
 
-ThyroCare is an AI-driven mobile application designed to support patients with thyroid disorders (hypothyroidism, hyperthyroidism, thyroid cancer, goiter, and thyroiditis). 
-
-The app provides:
+ThyroCare is an AI-driven mobile application designed to support patients with thyroid disorders (hypothyroidism, hyperthyroidism, thyroid cancer, goiter, and thyroiditis). The app provides:
 
 * Early symptom screening using an AI questionnaire.
 * Personalized treatment tracking (medication reminders, lab result storage).
