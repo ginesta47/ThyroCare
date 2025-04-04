@@ -57,9 +57,9 @@ AI Techniques:
 
 ## Challenges
 
-⚠️ Not a diagnostic tool: Always requires physician confirmation.
-⚠️ Data bias: Needs diverse clinical validation.
-⚠️ Privacy: Strict compliance with HIPAA/GDPR for health data.
+* Not a diagnostic tool: Always requires physician confirmation.
+* Data bias: Needs diverse clinical validation.
+* Privacy: Strict compliance with HIPAA/GDPR for health data.
 
 ## What next?
 
