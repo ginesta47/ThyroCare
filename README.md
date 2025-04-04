@@ -8,10 +8,10 @@ ThyroCare is an AI-driven mobile application designed to support patients with t
 
 The app provides:
 
-✅ Early symptom screening using an AI questionnaire.
-✅ Personalized treatment tracking (medication reminders, lab result storage).
-✅ Patient community for shared experiences.
-✅ Verified medical information from trusted sources.
+* Early symptom screening using an AI questionnaire.
+* Personalized treatment tracking (medication reminders, lab result storage).
+* Patient community for shared experiences.
+* Verified medical information from trusted sources.
 
 Goal: To reduce diagnostic delays and improve treatment adherence through accessible technology.
 
