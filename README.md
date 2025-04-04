@@ -73,5 +73,3 @@ AI Techniques:
 * Inspiration: Apps like MyTherapy and PatientsLikeMe.
 * University of Helsinki’s Building AI Course for foundational knowledge.
 
-* Contact: Interested in collaborating? Reach out!
-
